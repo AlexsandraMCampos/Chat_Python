@@ -26,7 +26,7 @@ pip install flet
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/migazap.git
+git clone [https://github.com/AlexsandraMCampos/Chat_Python.git]
 cd migazap
 ```
 
@@ -99,9 +99,9 @@ flet>=0.9.0
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
 
-## 👥 Autores
+## 👥 Autora
 
-* **Seu Nome** - *Trabalho Inicial* - [SeuUsuario](https://github.com/seu-usuario)
+* **Alexsandra Campos** - *Trabalho Inicial* - [AlexsandraMCampos](https://github.com/AlexsandraMCampos)
 
 ## 🎁 Expressões de Gratidão
 
@@ -111,4 +111,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 * etc.
 
 ---
-⌨️ com ❤️ por [seu-usuario](https://github.com/seu-usuario) 😊
+⌨️ com ❤️ por [AlexsandraMCampos](https://github.com/AlexsandraMCampos) 😊
